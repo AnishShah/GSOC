@@ -1,4 +1,4 @@
-# GSoC 2016 Proposal
+# GSoC 2016
 
 [Python Software Foundation - Proposal](https://github.com/AnishShah/GSOC/wiki/GSoC-2016-Application-Anish-Shah:-Roundup-(Core-Python))
 
